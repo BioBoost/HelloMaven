@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "HelloMaven",
+                "projectName": "HelloMaven",
+                "workingDirectory": "c:\\Users\\Nico De Witte\\Desktop\\HelloMaven\\HelloMaven",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "HelloMaven",
+                "projectName": "HelloMaven",
+                "workingDirectory": "c:\\Users\\Nico De Witte\\Desktop\\HelloMaven\\HelloMaven",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
