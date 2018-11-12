@@ -15,7 +15,7 @@ public class Square {
   }
 
   public double area() {
-    return 0;
+    return size * size;
   }
 
   private double size = 0;
